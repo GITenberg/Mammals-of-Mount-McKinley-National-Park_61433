@@ -1,0 +1,43 @@
+_repo: Mammals-of-Mount-McKinley-National-Park_61433
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Murie, Olaus J. (Olaus Johan)
+    alias: Murie, Olaus Johan
+    birthdate: 1889
+    deathdate: 1963
+    gutenberg_agent_id: '51426'
+    url: http://www.gutenberg.org/2009/agents/51426
+    wikipedia: https://en.wikipedia.org/wiki/Olaus_Murie
+  photographer:
+    agent_name: Ott, Charles J.
+    gutenberg_agent_id: '51423'
+    url: http://www.gutenberg.org/2009/agents/51423
+creator:
+  author:
+    agent_name: Murie, Adolph
+    aliases:
+    - Winstrom, Adolf
+    - Murie, Ade
+    birthdate: 1899
+    deathdate: 1974
+    gutenberg_agent_id: '51425'
+    url: http://www.gutenberg.org/2009/agents/51425
+    wikipedia: https://en.wikipedia.org/wiki/Adolph_Murie
+description: ''
+gutenberg_issued: '2020-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61433'
+  lccn: '63004825'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Denali National Park and Preserve (Alaska)'
+- !lcc 'QL'
+- !lcsh 'Mammals -- Alaska -- Denali National Park and Preserve'
+- GITenberg
+title: Mammals of Mount McKinley National Park
+url: http://www.gutenberg.org/ebooks/61433
