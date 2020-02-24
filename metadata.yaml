@@ -1,5 +1,5 @@
 _repo: Mammals-of-Mount-McKinley-National-Park_61433
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Murie, Olaus J. (Olaus Johan)
@@ -13,6 +13,9 @@ contributor:
     agent_name: Ott, Charles J.
     gutenberg_agent_id: '51423'
     url: http://www.gutenberg.org/2009/agents/51423
+covers:
+- cover_type: archival
+  image_path: 61433-h/images/cover.jpg
 creator:
   author:
     agent_name: Murie, Adolph
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51425
     wikipedia: https://en.wikipedia.org/wiki/Adolph_Murie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61433#Mammals-of-Mount-McKinley-National-Park
 gutenberg_issued: '2020-02-17'
 gutenberg_type: Text
 identifiers:
